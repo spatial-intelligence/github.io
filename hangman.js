@@ -186,7 +186,7 @@ window.onload = function () {
     categories = [
         ["cat","dog","mouse","bird","lion","frog","bee","sheep","fly"],
         ["ear", "tail", "mouth", "hand", "jaw","head","arm","lip","leg","bum","neck"],
-        ["light", "night", "shy", "queen","boat","bow","chew","dew","book","is","hook"]
+        ["mario","light", "night", "shy", "queen","boat","bow","chew","dew","book","is","hook"]
     ];
 
     chosenCategory = categories[Math.floor(Math.random() * categories.length)];
@@ -214,7 +214,7 @@ window.onload = function () {
       hints = [
         ['meeow','woof','ran up the clock','flap','roar','hop','buzz','baa','not walk'],
         ['what was that?','wag','yum','high 5','chew','nod','you have 2 of them','kiss','run','poo','giraffe has a long one'],
-        ['not dark','sleep time','rhymes with fly','most powerful piece in chess','floats','..and arrows','chomp up your food','morning water on the grass','you read this','tricky word even though short','Peter Pan']
+        ['nintendo game superstar','not dark','sleep time','rhymes with fly','most powerful piece in chess','floats','..and arrows','chomp up your food','morning water on the grass','you read this','tricky word even though short','Peter Pan']
     ];
 
     var catagoryIndex = categories.indexOf(chosenCategory);

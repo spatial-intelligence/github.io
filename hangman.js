@@ -186,7 +186,7 @@ window.onload = function () {
     categories = [
         ["cat","dog","mouse","bird","lion","frog","bee","sheep","fly"],
         ["ear", "tail", "mouth", "hand", "jaw","head","arm","lip","leg","bum","neck"],
-        ["mario"]
+        ["mario","light", "night", "shy", "queen","boat","bow","chew","dew","book","is","hook"]
     ];
 
     chosenCategory = categories[Math.floor(Math.random() * categories.length)];
